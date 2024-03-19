@@ -1,0 +1,11 @@
+
+Section: My Team
+
+1. I have designed the given task.
+2. Here first of all I have created html cos using html tag
+3. In which I used some HTML tags like div tag, paragraph tag, heading tag, image source tag by using the above tags for the project I have gained better knowledge of HTML
+4. After that I used some attributes in html, I have used class attribute for one or more elements for CSS styling purpose.
+5. After that I used CSS to style the web page in which I used various properties. Below I am defining an overview of some CSS properties.
+  1] I have used font size property to give proper size to the text, flex property is used to justify the length of flexible objects, padding property, margin property, display property, content property.
+6. I have done this project using CSS and HTML.
+7) Because of this project I have gained intermediate knowledge about HTML and CSS for web development.
